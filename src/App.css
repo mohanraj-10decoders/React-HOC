@@ -25,5 +25,6 @@ button{
   justify-content: space-around;
   background-color: lightgray;
   width: max-content;
+  min-width: 400px;
   padding: 20px;
 }
